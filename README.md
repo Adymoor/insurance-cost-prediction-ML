@@ -499,5 +499,6 @@ The prediction script loads the trained model from `AI_model.pkl`, predicts the 
 ## 👤 Author
 **Adymoor**
 Machine Learning learning project focused on regression algorithms, model comparison, hyperparameter tuning, and model deployment using XGBoost and Joblib.
-#   i n s u r a n c e - c o s t - p r e d i c t i o n - M L  
+
+ 
  
